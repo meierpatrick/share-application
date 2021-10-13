@@ -1,11 +1,12 @@
 import * as React from "react";
+import "../styles/main.css";
 
 const IndexPage = () => {
   return (
-    <main>
+    <>
       <title>Home Page</title>
       <h1>Share Application</h1>
-    </main>
+    </>
   );
 };
 
