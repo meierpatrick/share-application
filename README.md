@@ -1,1 +1,1 @@
-<h1>Share Application</h1>
+<h1>Share Application 0.5.0</h1>
